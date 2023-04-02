@@ -1,0 +1,1 @@
+alter table hours_turnstile rename to hours_turnstiles;

@@ -1,0 +1,12 @@
+version: "3.0"
+services:
+  node_api:
+    container_name: node_api
+    restart: always
+    build: ./
+    ports:
+      - ${PORT}:${PORT}
+    volumes:
+      - .:/usr/src/app
+volumes:
+  data: {}
