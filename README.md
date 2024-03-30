@@ -20,6 +20,7 @@ docker-compose up
 ## API Endpoints
 
 
+
 The following API endpoints are available:
 
 | Method | URL                         | Description                            |
