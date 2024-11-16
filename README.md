@@ -8,8 +8,8 @@ This is a Node.js server written in TypeScript. It provides various endpoints fo
 
 Before running the server, ensure that you have the following dependencies installed:
 
-- Node.js [link to installation guide]
-- Docker [link to Docker installation guide]
+- Node.js (Version 14.17.0) *(optional, only for development or debugging)*
+- Docker 
 
 ### Installation
 1. Clone the repository:
